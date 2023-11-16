@@ -1,5 +1,9 @@
 # TP Recherche d'Information
 
+## Avant de démarrer
+
+Forker le projet dans votre espace github avant de commencer
+
 ## TP1. - Recherche d'information _classique_
 
 Dans ce TP, vous allez mettre en oeuvre des techniques de recherche d'information classiques : 
