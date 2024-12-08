@@ -1,5 +1,6 @@
 openai
 langchain
+langchain-community
 sentence_transformers
 chromadb
 unstructured
