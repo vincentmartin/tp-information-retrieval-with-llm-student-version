@@ -24,7 +24,7 @@ Répondez aux questions dans le notebook [1-Recherche d'information classique.ip
 
 ## Notation et objectif
 
-L'objectif est d'obtenir un score de 5/5 sur tous les tests. 
+L'objectif est de réussir les 4 tests du notebook : chaque test doit afficher `Score: 3 Feedback: 5/5 Correct`. 
 
 La notation prendra également en compte la qualité de votre code et son optimisation.
 
